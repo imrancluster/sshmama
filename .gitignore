@@ -1,0 +1,6 @@
+/dist
+*.db
+*.sqlite
+*.pem
+.DS_Store
+/bin
