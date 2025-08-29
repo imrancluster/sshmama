@@ -68,6 +68,7 @@ sshmama add --name staging --host staging.example.com --user deploy --tags stagi
 ```
 
 **Options:**
+
 - `--name`: Connection name (required)
 - `--host`: Hostname or IP address (required)
 - `--user`: Username (required)
@@ -310,6 +311,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the sshmama community**
-
-*Simplify your SSH workflow with secure, organized connection management.*
+_Simplify your SSH workflow with secure, organized connection management._
