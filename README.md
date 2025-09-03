@@ -133,6 +133,9 @@ sshmama attach --name webserver --file ~/.ssh/id_rsa
 # Edit connection details
 sshmama edit webserver
 
+# Example:
+sshmama edit --name webserver --port 9090
+
 # Interactive editing of all fields
 ```
 
